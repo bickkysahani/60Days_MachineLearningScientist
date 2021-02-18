@@ -20,3 +20,9 @@
 - **Fine-tuning your model**: After training our model, our next next is to evaluate its performance. In Classification .score() methos is used to evaluate its performance. 2X2 matrix that summarizes predictive performance called a confusion matrix. Precision, which is the number of true positives divided by the total number of true positives and false positives. It is also called the positive predictive value or PPV. Recall, which is the number of true positives divided by the total number of true positives and false negatives. This is also called sensitivity, hit rate, or true positive rate. F1-score is defined as two times the product of the precision and recall divided by the sum of the precision and recall, in other words, it's the harmonic mean of precision and recall. high precision means that our classifier had a low false positive rate, that is, not many real emails were predicted as being spam. Intuitively, high recall means that our classifier predicted most positive or spam emails correctly.
 
 ![Image](https://github.com/bickkysahani/60Days_MachineLearningScientist/blob/main/images/Day1_ch3_fine_tuning_your_model.png)
+
+**Day2 of 60DaysOfMachineLearningScientist!**
+_ **Preprocessing and Pipeline**:
+link to notebook:
+(https://github.com/bickkysahani/60Days_MachineLearningScientist/blob/main/Codes%20and%20exercises/1.Supervised%20Learning%20with%20scikit%20learn/supervised_learning_chapter4_preprocessing%20and%20pipeline.ipynb)
+
